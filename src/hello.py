@@ -1,3 +1,2 @@
-# 江湖规矩，不写helloworld不算入门
+# 江湖规矩，不写hello world不算入门
 print('hello, python')
-

@@ -1,4 +1,4 @@
-set1 = {1, 1, 2, 3}
+set1 = {4, 1, 2, 3}
 print(len(set1))
 print(set1)
 set1.add(4)
